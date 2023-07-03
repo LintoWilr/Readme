@@ -33,7 +33,7 @@
     - `鲶鱼精邮差`
     - `抹茶插件（或者删除抹茶插件）`
 
-5.Triggernometry报错问题：
+5. Triggernometry报错问题：
     - `检查加载顺序 `
     - `删除原来的Trn`
     - `重启ACT `
