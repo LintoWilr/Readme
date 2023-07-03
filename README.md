@@ -54,8 +54,7 @@ JS相关问题：
     - 天箭脚本：共有两个，一个绘制范围，一个绘制安全点，名字不一样
     - 请使用SplatoonX导入绝欧画图精装版整合，SplX请Github搜索Gamous寻找他的底库
     - SPL画图重复了！挡视线！**删除功能一样的重复预设，或者关闭触发器的功能重复的画图**
-    - 别人有，但是你没有的预设在群里问，尽量给你发
-SplX是这个<img src="https://github.com/LintoWilr/ReadMe/blob/main/1.png">
+    - SplX是这个<img src="https://github.com/LintoWilr/ReadMe/blob/main/1.png">
 
 
 
