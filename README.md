@@ -46,7 +46,7 @@ JS相关问题：
 **Spl相关问题集锦**
 
 1. SPL相关问题：
-    - 请确保你的`Splatoon `为`3.2.1.3 `版本（或者使用SplatoonX）
+    - 请确保你的Splatoon 为`3.2.1.3`版本（或者使用SplatoonX）
     - **Spl有中文**，请调Splatoon language为**Chinese**
     - 我的预设颜色太厚了看不见！
 `SPL-布局-找到你要改那一条预设-点击线条粗细/覆盖文本里的颜色-修改A:255的值 `
@@ -55,7 +55,8 @@ JS相关问题：
     - 天箭脚本：共有两个，一个绘制范围，一个绘制安全点，名字不一样
     - 请使用SplatoonX导入绝欧画图精装版整合，SplX请Github搜索Gamous寻找他的底库
     - SPL画图重复了！挡视线！**删除功能一样的重复预设，或者关闭触发器的功能重复的画图**
-    - SplX是这个<img src="https://github.com/LintoWilr/ReadMe/blob/main/1.png">
+    - SplX是这个
+    - <img src="https://github.com/LintoWilr/ReadMe/blob/main/1.png">
 
 
 
