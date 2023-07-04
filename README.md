@@ -1,14 +1,15 @@
 # 问题集锦
 
-**js使用教程**
+1**js使用教程**
  
-1. 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中
+ ① 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中
     - 咖啡 ACT：`ACT\Plugins\cactbot-offline\user\raidboss\`
     - 呆萌、原生 ACT：`ACT.呆萌整合\Plugins\ACT.OverlayPlugin\cactbot\user\raidboss\`
 
-2. 刷新 _Cactbot Raidboss_ 悬浮窗 以加载文件。
+ ② 刷新 _Cactbot Raidboss_ 悬浮窗 以加载文件。
 
-JS相关问题：
+2.JS相关问题：
+    - 怎么没指路啊？：勾选启动SPL API端口`47774`
 
 **Act问题集锦**
 
