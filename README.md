@@ -2,7 +2,7 @@
 
 **js使用教程**
  
-1. 将** JS 文件** 放入本地的 `user\raidboss` 文件夹中
+1. 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中
     - 咖啡 ACT：`ACT\Plugins\cactbot-offline\user\raidboss\`
     - 呆萌、原生 ACT：`ACT.呆萌整合\Plugins\ACT.OverlayPlugin\cactbot\user\raidboss\`
 
