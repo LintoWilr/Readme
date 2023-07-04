@@ -53,6 +53,7 @@ JS相关问题：
     - 我想要预设变成那种网格！ `SPL-一般设置-勾选使用矩形填充线-将最小间隔改为0.05~0.15之间的值 `
     - 导入脚本：`SPL-Scripts-复制要导入的脚本-点击Install From clipboard安装（导入网址要开梯子）`
     - 天箭脚本：共有两个，一个绘制范围，一个绘制安全点，名字不一样，**可以一起导入**，谢谢
+    - 删除脚本：按住`Ctrl` 点击<img src="https://github.com/LintoWilr/ReadMe/blob/main/2.png">
     - 请使用SplatoonX导入绝欧画图精装版整合，SplX请Github搜索Gamous寻找他的底库
     - SPL画图重复了！挡视线！**删除功能一样的重复预设，或者关闭触发器的功能重复的画图**
     - SplX是这个
