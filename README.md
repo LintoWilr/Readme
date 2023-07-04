@@ -1,6 +1,7 @@
 # 问题集锦
 
-1. **js使用教程**：
+
+1. JS使用教程：
  
  ① 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中
     - 咖啡 ACT：`ACT\Plugins\cactbot-offline\user\raidboss\`
