@@ -3,11 +3,11 @@
 
 1. JS使用教程：
  
- ① 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中
+ 将**JS 文件** 放入本地的 `user\raidboss` 文件夹中：
     - 咖啡 ACT：`ACT\Plugins\cactbot-offline\user\raidboss\`
     - 呆萌、原生 ACT：`ACT.呆萌整合\Plugins\ACT.OverlayPlugin\cactbot\user\raidboss\`
 
- ② 刷新 _Cactbot Raidboss_ 悬浮窗 以加载文件。
+ 刷新 _Cactbot Raidboss_ 悬浮窗 以加载文件。
 
 2. JS相关问题：
     - 怎么没指路啊？：勾选启动SPL API端口`47774`
